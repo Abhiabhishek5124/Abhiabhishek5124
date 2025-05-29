@@ -11,8 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at [Narratize](https://www.narratize.com/)
-- 🌱 Exploring **Large Language Model Integration** and real-world AI applications
+- 🚀 Currently open to new opportunities in **Software Development** or **AI Engineering**
+- ✨ Exploring **Large Language Model Integration** and real-world AI applications
+- 🚀 Learning **Agentic Workflows**, **LangGraph**, and **AI Infrastructure in 2025**
 - 💬 Ask me about **Python, Java, JavaScript, or anything full-stack**
 - 📫 Reach me at **abhishekshrestha5125@gmail.com**
 - ⚡ Fun fact: **I’m an ambivert who loves tech talks and quiet code nights**
